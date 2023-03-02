@@ -42,5 +42,7 @@ function isPrime(num) {
 
 
 function sumPrimes(num) {
+  sum = 0
+  sumNums = []
   
 }
